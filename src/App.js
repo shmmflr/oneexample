@@ -14,8 +14,8 @@ export class App extends Component {
     });
     toast.success('احسنت به این همه شهامت لبیک یا حسین .' ,{
       position: 'top-left',
-      // autoClose: true,
-      // closeButton :true,
+      autoClose: true,
+      closeButton :true,
 
     })
   };
